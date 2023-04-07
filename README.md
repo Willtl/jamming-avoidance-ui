@@ -13,6 +13,7 @@ network status, including current channels and movements, as well as the DL chan
    `pip install -r requirements.txt`
 
 3. Run the `main.py` file:
+
    `python main.py`
 
 ## UI Preview
